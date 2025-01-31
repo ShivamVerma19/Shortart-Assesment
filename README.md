@@ -41,3 +41,62 @@ This is a simple content-sharing Android application built using **Firebase Auth
 
 ---
 
+## 📋 Setup Instructions
+
+### 2️⃣ Open in Android Studio
+- Open Android Studio.
+- Click on "Open an existing project" and select the cloned folder.
+
+### 3️⃣ Set Up Firebase
+- Go to Firebase Console.
+- Create a new project.
+- Enable the following Firebase services:
+  - Firebase Authentication (Email/Password)
+  - Realtime Database
+  - Firebase Storage
+  - Firebase Dynamic Links
+- Download `google-services.json` and place it inside the `/app` directory.
+
+### 4️⃣ Run the App
+- Click **Run ▶** in Android Studio to test the app.
+
+---
+
+## 🔗 How It Works
+
+### User Registration & Login
+- Users sign up with email & password.
+- Profile details are stored in Firebase Database.
+
+### Uploading Images
+- Users select an image from the gallery.
+- The image is uploaded to Firebase Storage.
+- A new post is created in Realtime Database.
+
+### Sharing Images
+- A Firebase Dynamic Link is generated for each post.
+- Users can share via WhatsApp , Email etc or copy the link.
+- When clicked, the app opens and displays the shared image.
+
+### Deep Link Handling
+- The app detects Firebase Dynamic Links.
+- Extracts image ID and opens it inside `ImageDetailActivity`.
+
+---
+
+## 🔥 Future Enhancements
+✅ Push Notifications for shared content.  
+✅ Implement Like & Comment features.  
+✅ User Profile Editing.
+
+---
+
+## 💡 Contributors
+**Shivam Verma** - GitHub
+
+✅ Push Notifications for shared content.✅ Implement Like & Comment features.✅ User Profile Editing functionality.
+
+💡 Contributors
+
+👨‍💻 Shivam Verma - GitHub
+
