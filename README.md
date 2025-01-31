@@ -30,10 +30,9 @@ This is a simple content-sharing Android application built using **Firebase Auth
 
 ## 📸 Screenshots
 
-| Login Screen | Sign Up Screen | Home Screen |
-|-------------|--------------|-------------|
-| (![s1](https://github.com/user-attachments/assets/e7f33e0c-2e33-448b-b1fd-0784d04c1d07)
-) | ![Sign Up](screenshots/signup.png) | ![Home](screenshots/home.png) |
+| Login Screen | Sign Up Screen |
+|-------------|--------------|
+| ![s1](https://github.com/user-attachments/assets/206a610d-1dc2-41c1-9943-540856ebf5bd) | ![image](https://github.com/user-attachments/assets/3935743d-64e4-46d4-9b56-50d18a8cbedf) |
 
 ---
 
