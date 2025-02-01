@@ -94,9 +94,5 @@ This is a simple content-sharing Android application built using **Firebase Auth
 ## 💡 Contributors
 **Shivam Verma** - GitHub
 
-✅ Push Notifications for shared content.✅ Implement Like & Comment features.✅ User Profile Editing functionality.
 
-💡 Contributors
-
-👨‍💻 Shivam Verma - GitHub
 
